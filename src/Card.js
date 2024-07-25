@@ -1,4 +1,4 @@
 import Assignlist from "./Assignlist";
-function Cardd(params) {
+function Cardd() {
     
 }
