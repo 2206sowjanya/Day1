@@ -1,11 +1,10 @@
 import React from "react";
 
-function S(){
+function First(){
     return (
-        <div>
+        <div className="Card">
           <img src="download.jpeg"/>
-
-           <ul type="none">
+          <ul type="none">
             <li><h1>Review name</h1></li>
             <li><h1>Product is bad</h1></li>
            </ul>
@@ -14,4 +13,4 @@ function S(){
     )
 
 }
-export default S;
+export default First;

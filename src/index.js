@@ -1,8 +1,9 @@
-// import React from "react";
-// import Array from "./Array";
-import Review from "./Review";
+import React from "react";
+import ReactDOM from "react-dom/client"
+// import DataFetching1 from "./DataFetching1";
+import App from "./App";
 
-import ReactDOM from "react-dom/client";
+
 const rootElement=document.getElementById("root");
 const rootRef=ReactDOM.createRoot(rootElement)
-rootRef.render(<Review />)
+rootRef.render(<App />)

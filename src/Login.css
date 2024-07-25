@@ -1,0 +1,14 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh; 
+    background-color: #f0f0f0;
+  }
+  
+  .card {
+    background-color: #fff;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
